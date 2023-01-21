@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --host 192.168.0.108 db.json -p 3003"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
